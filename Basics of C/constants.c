@@ -17,3 +17,9 @@ Constants are divided into two major categories:-
 ->Union
 ->Enum etc.
 */
+int const num=15;
+//Here we declared datatype to integer constant  and assigned value 15 to it. 
+float const pi=3.14;
+//Here we declared datatype to Real(float) constant and assigned value 3.14 to it.
+char const myname='A';
+//Here we declared datatype to character constant  and assigned value A to it.
